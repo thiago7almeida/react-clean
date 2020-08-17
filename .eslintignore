@@ -3,5 +3,4 @@ node_modules
 coverage
 public
 dist
-*.scss
-*.json
+yarn-error.log

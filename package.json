@@ -4,7 +4,6 @@
   "main": "index.js",
   "author": "Thiago Almeida <thiagoa.silva@outlook.com>",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "test": "jest"
   },
