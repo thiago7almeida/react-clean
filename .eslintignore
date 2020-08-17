@@ -1,4 +1,7 @@
 node_modules
 .vscode
-yarn-error.log
 coverage
+public
+dist
+*.scss
+*.json

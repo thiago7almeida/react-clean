@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Thiago Almeida <thiagoa.silva@outlook.com>",
   "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.10",
     "@types/node": "^14.6.0",
